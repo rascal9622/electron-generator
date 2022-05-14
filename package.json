@@ -1,0 +1,15 @@
+{
+  "name": "electron-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "electron-generator.js",
+  "scripts": {
+    "generate": "node electron-generator.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "npm-install-package": "^2.1.0"
+  }
+}
